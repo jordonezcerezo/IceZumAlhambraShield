@@ -1,3 +1,6 @@
 # IceZumAlhambraShield
 
-![GitHub Logo](/docs/Photos/layers_altium.PNG)(https://github.com/jordonezcerezo/IceZumAlhambraShield/blob/master/docs/Photos/layers_altium.PNG)
+![Schematic Altium](/docs/Photos/Schematic.PNG)
+
+![Layer Altium](/docs/Photos/layers_altium.PNG)
+
