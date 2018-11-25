@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=Net*_5 New Net Name=Net_5
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  ALTIMU-10
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  MC33926
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  IceZumAlhambra
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=INV Pin=-0
+Removed Pin From Net: NetName=M1_PWM Pin=-1
+Added Pin To Net: NetName=M1_PWM Pin=-0
+Added Pin To Net: NetName=INV Pin=-1
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  ALTIMU-10
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  IceZumAlhambra
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  MC33926

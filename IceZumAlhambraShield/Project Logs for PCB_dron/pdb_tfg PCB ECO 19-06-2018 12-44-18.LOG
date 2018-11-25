@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=M1_PWM Pin=IceZumAlhambra-0
+Removed Pin From Net: NetName=INV Pin=IceZumAlhambra-1
+Removed Pin From Net: NetName=M2_PWM Pin=IceZumAlhambra-2
+Removed Pin From Net: NetName=M3_PWM Pin=IceZumAlhambra-3
+Removed Pin From Net: NetName=M4_PWM Pin=IceZumAlhambra-4
+Removed Pin From Net: NetName=PIXEL_0 Pin=IceZumAlhambra-5
+Removed Pin From Net: NetName=PIXEL_2 Pin=IceZumAlhambra-6
+Removed Pin From Net: NetName=PIXEL_4 Pin=IceZumAlhambra-7
+Removed Pin From Net: NetName=PIXEL_6 Pin=IceZumAlhambra-8
+Removed Pin From Net: NetName=CLK Pin=IceZumAlhambra-9
+Removed Pin From Net: NetName=HREF Pin=IceZumAlhambra-10
+Removed Pin From Net: NetName=VSYNC Pin=IceZumAlhambra-11
+Removed Pin From Net: NetName=PIXEL_7 Pin=IceZumAlhambra-12
+Removed Pin From Net: NetName=PIXEL_5 Pin=IceZumAlhambra-13
+Removed Pin From Net: NetName=SDA Pin=IceZumAlhambra-16
+Removed Pin From Net: NetName=SCL Pin=IceZumAlhambra-17
+Removed Pin From Net: NetName=RX Pin=IceZumAlhambra-20
+Removed Pin From Net: NetName=TX Pin=IceZumAlhambra-21
+Removed Pin From Net: NetName=PIXEL_1 Pin=IceZumAlhambra-22
+Removed Pin From Net: NetName=PIXEL_3 Pin=IceZumAlhambra-23
+Removed Pin From Net: NetName=VIN Pin=IceZumAlhambra-24
+Removed Pin From Net: NetName=5V_P Pin=IceZumAlhambra-27
+Removed Pin From Net: NetName=3V3 Pin=IceZumAlhambra-28
+Removed Pin From Net: NetName=5V Pin=IceZumAlhambra-30
+Added Component: Designator=*(IceZumAlhambra)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=M1_PWM Pin=*-0
+Added Pin To Net: NetName=INV Pin=*-1
+Added Pin To Net: NetName=M2_PWM Pin=*-2
+Added Pin To Net: NetName=M3_PWM Pin=*-3
+Added Pin To Net: NetName=M4_PWM Pin=*-4
+Added Pin To Net: NetName=PIXEL_0 Pin=*-5
+Added Pin To Net: NetName=PIXEL_2 Pin=*-6
+Added Pin To Net: NetName=PIXEL_4 Pin=*-7
+Added Pin To Net: NetName=PIXEL_6 Pin=*-8
+Added Pin To Net: NetName=CLK Pin=*-9
+Added Pin To Net: NetName=HREF Pin=*-10
+Added Pin To Net: NetName=VSYNC Pin=*-11
+Added Pin To Net: NetName=PIXEL_7 Pin=*-12
+Added Pin To Net: NetName=PIXEL_5 Pin=*-13
+Added Pin To Net: NetName=SDA Pin=*-16
+Added Pin To Net: NetName=SCL Pin=*-17
+Added Pin To Net: NetName=RX Pin=*-20
+Added Pin To Net: NetName=TX Pin=*-21
+Added Pin To Net: NetName=PIXEL_1 Pin=*-22
+Added Pin To Net: NetName=PIXEL_3 Pin=*-23
+Added Pin To Net: NetName=VIN Pin=*-24
+Added Pin To Net: NetName=5V_P Pin=*-27
+Added Pin To Net: NetName=3V3 Pin=*-28
+Added Pin To Net: NetName=5V Pin=*-30
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambra
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component ALTIMU-10
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component LIPO_INPUT SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component MC33926
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor1 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor2 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor3 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor4 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component OV7670

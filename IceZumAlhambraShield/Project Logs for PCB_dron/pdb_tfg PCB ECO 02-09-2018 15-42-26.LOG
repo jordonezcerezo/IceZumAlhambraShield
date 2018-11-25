@@ -1,0 +1,10 @@
+Added Component: Designator=*(SWITCH_PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(SWITCH_PCB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SCL Pin=*-2
+Added Pin To Net: NetName=SDA Pin=*-2
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambraII
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH_PCB
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH_PCB
+Added Room: Name=pcb_dron_schematic

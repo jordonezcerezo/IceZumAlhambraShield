@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=M4_PWM/PCLK Pin=*-4
+Added Pin To Net: NetName=M4_PWM/PCLK Pin=OV7670-6
+Added Net: Name=M4_PWM/PCLK
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambraII
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH I2C MPU6050
+Added Room: Name=pcb_dron_schematic

@@ -1,0 +1,7 @@
+Added Component: Designator=*(IceZumAlhambra)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-14
+Added Pin To Net: NetName=GND Pin=*-25
+Added Pin To Net: NetName=GND Pin=*-26
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambra
+Added Room: Name=pcb_dron_schematic

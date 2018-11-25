@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=Vin 12V NewDesignator=LIPO_INPUT
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambra
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component LIPO_INPUT SCREW_2PIN

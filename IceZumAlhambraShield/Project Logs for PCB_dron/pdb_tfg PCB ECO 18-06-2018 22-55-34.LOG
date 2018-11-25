@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=LIPO_INPUT-1
+Removed Pin From Net: NetName=GND Pin=LIPO_INPUT-2
+Removed Member From Class: ClassName=pcb_dron_schematic Member=LIPO_INPUT
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component IceZumAlhambra

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SDA Pin=*-5
+Removed Pin From Net: NetName=SCL Pin=*-6
+Removed Pin From Net: NetName=SCL Pin=R1-1
+Removed Pin From Net: NetName=SDA Pin=R2-1
+Added Component: Designator=*(SWITCH_PCB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(SWITCH_PCB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SCLMPU Pin=*-6
+Added Pin To Net: NetName=SCLMPU Pin=R1-1
+Added Net: Name=SCLMPU
+Added Pin To Net: NetName=SDAMPU Pin=*-5
+Added Pin To Net: NetName=SDAMPU Pin=R2-1
+Added Net: Name=SDAMPU
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH_PCB
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH_PCB
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambraII
+Added Room: Name=pcb_dron_schematic

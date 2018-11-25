@@ -1,0 +1,7 @@
+Added Component: Designator=ALTIMU-10(ALTIMU-10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=ALTIMU-10-2
+Added Pin To Net: NetName=GND Pin=ALTIMU-10-3
+Added Pin To Net: NetName=SDA Pin=ALTIMU-10-4
+Added Pin To Net: NetName=SCL Pin=ALTIMU-10-5
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component ALTIMU-10

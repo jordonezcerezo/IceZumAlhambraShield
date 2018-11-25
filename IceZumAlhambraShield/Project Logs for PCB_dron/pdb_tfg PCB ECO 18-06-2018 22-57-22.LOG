@@ -1,0 +1,5 @@
+Added Component: Designator=LIPO_INPUT(SCREW_2PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=LIPO_INPUT-1
+Added Pin To Net: NetName=GND Pin=LIPO_INPUT-2
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component LIPO_INPUT SCREW_2PIN

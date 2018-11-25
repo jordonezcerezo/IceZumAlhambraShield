@@ -1,0 +1,10 @@
+Added Component: Designator=*(4PINS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=INT Pin=*-1
+Added Pin To Net: NetName=AD0 Pin=*-2
+Added Pin To Net: NetName=XCL Pin=*-3
+Added Pin To Net: NetName=XDA Pin=*-4
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambraII
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * 4PINS-CONNECTOR
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH I2C MPU6050
+Added Room: Name=pcb_dron_schematic

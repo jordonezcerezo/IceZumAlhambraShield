@@ -1,0 +1,5 @@
+Added Component: Designator=Motor4(SCREW_2PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=Motor4-1
+Added Pin To Net: NetName=GND Pin=Motor4-2
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor4 SCREW_2PIN

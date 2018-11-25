@@ -1,0 +1,13 @@
+Added Component: Designator=C?(100uF_elect)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * MC33926
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component C? 100uF_elect
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component C? Cap Pol1
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component R? Pull-up
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component R? Pull-up
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  ALTIMU-10
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  IceZumAlhambra

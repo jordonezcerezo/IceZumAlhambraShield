@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=PIXEL_1 Pin=IceZumAlhambra-6
+Removed Pin From Net: NetName=PIXEL_2 Pin=IceZumAlhambra-7
+Removed Pin From Net: NetName=PIXEL_3 Pin=IceZumAlhambra-8
+Removed Pin From Net: NetName=PIXEL_4 Pin=IceZumAlhambra-9
+Removed Pin From Net: NetName=PIXEL_5 Pin=IceZumAlhambra-10
+Removed Pin From Net: NetName=PIXEL_6 Pin=IceZumAlhambra-11
+Removed Pin From Net: NetName=CLK Pin=IceZumAlhambra-13
+Removed Pin From Net: NetName=VSYNC Pin=IceZumAlhambra-22
+Removed Pin From Net: NetName=HREF Pin=IceZumAlhambra-23
+Change Component Designator: OldDesignator= NewDesignator=Motor1
+Change Component Designator: OldDesignator= NewDesignator=Motor2
+Change Component Designator: OldDesignator= NewDesignator=Motor3
+Change Component Designator: OldDesignator= NewDesignator=Motor4
+Added Pin To Net: NetName=PIXEL_2 Pin=IceZumAlhambra-6
+Added Pin To Net: NetName=PIXEL_4 Pin=IceZumAlhambra-7
+Added Pin To Net: NetName=PIXEL_6 Pin=IceZumAlhambra-8
+Added Pin To Net: NetName=CLK Pin=IceZumAlhambra-9
+Added Pin To Net: NetName=HREF Pin=IceZumAlhambra-10
+Added Pin To Net: NetName=VSYNC Pin=IceZumAlhambra-11
+Added Pin To Net: NetName=PIXEL_5 Pin=IceZumAlhambra-13
+Added Pin To Net: NetName=PIXEL_1 Pin=IceZumAlhambra-22
+Added Pin To Net: NetName=PIXEL_3 Pin=IceZumAlhambra-23
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor1 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor2 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor3 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component OV7670

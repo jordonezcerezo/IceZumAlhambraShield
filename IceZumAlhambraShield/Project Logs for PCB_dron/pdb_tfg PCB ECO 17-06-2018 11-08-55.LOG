@@ -1,0 +1,121 @@
+Added Component: Designator=*(SCREW_2PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(MC33926)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(OV7670)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(RB7.6-15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RB7.6-15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18K"; VariantName = "[No Variations]"
+Added Component: Designator=(SCREW_2PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=(SCREW_2PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=(SCREW_2PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=(SCREW_2PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=(IceZumAlhambra)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(SOT229P700X180-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Advanced Monolithic Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced%20Monolithic%20Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=*-9
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=U?-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=GND Pin=*-10
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=GND Pin=*-16
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=INV Pin=*-12
+Added Pin To Net: NetName=INV Pin=-0
+Added Net: Name=INV
+Added Pin To Net: NetName=M1_PWM Pin=*-6
+Added Pin To Net: NetName=M1_PWM Pin=-1
+Added Net: Name=M1_PWM
+Added Pin To Net: NetName=M2_PWM Pin=*-15
+Added Pin To Net: NetName=M2_PWM Pin=-2
+Added Net: Name=M2_PWM
+Added Pin To Net: NetName=M3_PWM Pin=-3
+Added Net: Name=M3_PWM
+Added Pin To Net: NetName=M4_PWM Pin=-4
+Added Net: Name=M4_PWM
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=*-10
+Added Pin To Net: NetName=Net*_5 Pin=*-14
+Added Pin To Net: NetName=Net*_5 Pin=R?-1
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=PIXEL_0 Pin=*-17
+Added Pin To Net: NetName=PIXEL_0 Pin=-5
+Added Net: Name=PIXEL_0
+Added Pin To Net: NetName=PIXEL_1 Pin=*-2
+Added Pin To Net: NetName=PIXEL_1 Pin=-6
+Added Net: Name=PIXEL_1
+Added Pin To Net: NetName=PIXEL_2 Pin=*-16
+Added Pin To Net: NetName=PIXEL_2 Pin=-7
+Added Net: Name=PIXEL_2
+Added Pin To Net: NetName=PIXEL_3 Pin=*-3
+Added Pin To Net: NetName=PIXEL_3 Pin=-8
+Added Net: Name=PIXEL_3
+Added Pin To Net: NetName=PIXEL_4 Pin=*-15
+Added Pin To Net: NetName=PIXEL_4 Pin=-9
+Added Net: Name=PIXEL_4
+Added Pin To Net: NetName=PIXEL_5 Pin=*-4
+Added Pin To Net: NetName=PIXEL_5 Pin=-10
+Added Net: Name=PIXEL_5
+Added Pin To Net: NetName=PIXEL_6 Pin=*-14
+Added Pin To Net: NetName=PIXEL_6 Pin=-11
+Added Net: Name=PIXEL_6
+Added Pin To Net: NetName=PIXEL_7 Pin=*-5
+Added Pin To Net: NetName=PIXEL_7 Pin=-12
+Added Net: Name=PIXEL_7
+Added Pin To Net: NetName=SCL Pin=*-8
+Added Pin To Net: NetName=SCL Pin=-17
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=*-11
+Added Pin To Net: NetName=SDA Pin=-16
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=*-1
+Added Pin To Net: NetName=VCC Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=VCC Pin=U?-3
+Added Net: Name=VCC
+Added Class: Name=pcb_dron_schematic
+Added Room: Name=pcb_dron_schematic

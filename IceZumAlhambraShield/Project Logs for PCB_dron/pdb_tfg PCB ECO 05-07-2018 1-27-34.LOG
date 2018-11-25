@@ -1,0 +1,13 @@
+Added Component: Designator=MC33926(MC33926)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=MC33926-4
+Added Pin To Net: NetName=NetMC33926_5 Pin=MC33926-5
+Added Pin To Net: NetName=M1_PWM Pin=MC33926-6
+Added Pin To Net: NetName=GND Pin=MC33926-7
+Added Pin To Net: NetName=NetMC33926_5 Pin=MC33926-10
+Added Pin To Net: NetName=INV Pin=MC33926-12
+Added Pin To Net: NetName=GND Pin=MC33926-13
+Added Pin To Net: NetName=NetMC33926_5 Pin=MC33926-14
+Added Pin To Net: NetName=M2_PWM Pin=MC33926-15
+Added Pin To Net: NetName=GND Pin=MC33926-16
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component MC33926

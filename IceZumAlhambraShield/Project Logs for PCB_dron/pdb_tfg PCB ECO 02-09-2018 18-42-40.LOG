@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=*-4
+Removed Pin From Net: NetName=Net*_5 Pin=*-5
+Removed Pin From Net: NetName=M1_PWM Pin=*-6
+Removed Pin From Net: NetName=GND Pin=*-7
+Removed Pin From Net: NetName=Net*_5 Pin=*-10
+Removed Pin From Net: NetName=INV Pin=*-12
+Removed Pin From Net: NetName=GND Pin=*-13
+Removed Pin From Net: NetName=Net*_5 Pin=*-14
+Removed Pin From Net: NetName=M2_PWM Pin=*-15
+Removed Pin From Net: NetName=GND Pin=*-16
+Added Component: Designator=*(MC33926)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=M1_PWM Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=Net*_5 Pin=*-10
+Added Pin To Net: NetName=INV Pin=*-12
+Added Pin To Net: NetName=GND Pin=*-13
+Added Pin To Net: NetName=Net*_5 Pin=*-14
+Added Pin To Net: NetName=M2_PWM Pin=*-15
+Added Pin To Net: NetName=GND Pin=*-16
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * 4PINS-CONNECTOR
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * OV7670
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * MC33926
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambraII
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH I2C MPU6050
+Added Room: Name=pcb_dron_schematic

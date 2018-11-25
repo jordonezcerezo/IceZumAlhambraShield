@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3V3 Pin=C?-1
+Removed Pin From Net: NetName=VCC Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=3V3 Pin=U?-2
+Removed Member From Class: ClassName=pcb_dron_schematic Member=C?
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Component: Designator=C1(100uF_elect)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(100uF_elect)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VIN Pin=-24
+Added Pin To Net: NetName=VIN Pin=C2-2
+Added Pin To Net: NetName=VIN Pin=U?-2
+Added Net: Name=VIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * MC33926
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component C1 10uF
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component C2 100uF
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component R1 Pull-up
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component R2 Pull-up
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  ALTIMU-10
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component  IceZumAlhambra

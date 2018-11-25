@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=INT Pin=*-1
+Removed Pin From Net: NetName=AD0 Pin=*-2
+Removed Pin From Net: NetName=XCL Pin=*-3
+Removed Pin From Net: NetName=XDA Pin=*-4
+Removed Pin From Net: NetName=SDAMPU Pin=*-5
+Removed Pin From Net: NetName=SCLMPU Pin=*-6
+Removed Pin From Net: NetName=GND Pin=*-7
+Removed Pin From Net: NetName=3V3 Pin=*-8
+Change Component Designator: OldDesignator=12V_INPUT NewDesignator=LIPO_INPUT
+Added Component: Designator=*(MPU6050)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=INT Pin=*-1
+Added Pin To Net: NetName=AD0 Pin=*-2
+Added Pin To Net: NetName=XCL Pin=*-3
+Added Pin To Net: NetName=XDA Pin=*-4
+Added Pin To Net: NetName=SDAMPU Pin=*-5
+Added Pin To Net: NetName=SCLMPU Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=3V3 Pin=*-8
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH_PCB
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * 4PINS-CONNECTOR
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * OV7670
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambraII
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * MC33926
+Added Room: Name=pcb_dron_schematic

@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * 4PINS-CONNECTOR
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambraII
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * OV7670
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * SWITCH I2C MPU6050
+Added Room: Name=pcb_dron_schematic

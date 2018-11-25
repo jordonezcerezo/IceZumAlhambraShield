@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=5V_P Pin=R3-2
+Change Room Name: Old Name=RoomDefinition New Name=pcb_dron_schematic
+Change Room Scope: Old Scope=False New Scope=InComponentClass('pcb_dron_schematic')

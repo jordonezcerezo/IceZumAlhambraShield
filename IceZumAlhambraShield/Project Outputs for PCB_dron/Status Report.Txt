@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_dron.PrjPcb]
+   Generated File[pdb_tfg.TXT]
+   Generated File[pdb_tfg.LDP]
+   Generated File[pdb_tfg.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:07:44 On 08/09/2018

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=* NewDesignator=LIPO_INPUT
+Change Component Designator: OldDesignator=* NewDesignator=MC33926
+Change Component Designator: OldDesignator=* NewDesignator=OV7670
+Change Component Designator: OldDesignator= NewDesignator=ALTIMU-10
+Change Component Designator: OldDesignator= NewDesignator=IceZumAlhambra
+Change Component Designator: OldDesignator= NewDesignator=Motor1
+Change Component Designator: OldDesignator= NewDesignator=Motor2
+Change Component Designator: OldDesignator= NewDesignator=Motor3
+Change Component Designator: OldDesignator= NewDesignator=Motor4
+Change Component Designator: OldDesignator=U? NewDesignator=AMS1117-3.3
+Change Net Name : Old Net Name=Net_5 New Net Name=NetMC33926_5
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component ALTIMU-10
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component LIPO_INPUT SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component MC33926
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor1 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor2 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor3 SCREW_2PIN
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component Motor4 SCREW_2PIN

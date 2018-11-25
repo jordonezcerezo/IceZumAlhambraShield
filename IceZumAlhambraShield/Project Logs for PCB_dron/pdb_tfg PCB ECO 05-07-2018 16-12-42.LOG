@@ -1,0 +1,19 @@
+Added Component: Designator=OV7670(OV7670)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PIXEL_1 Pin=OV7670-2
+Added Pin To Net: NetName=PIXEL_3 Pin=OV7670-3
+Added Pin To Net: NetName=PIXEL_5 Pin=OV7670-4
+Added Pin To Net: NetName=PIXEL_7 Pin=OV7670-5
+Added Pin To Net: NetName=VSYNC Pin=OV7670-7
+Added Pin To Net: NetName=SCL Pin=OV7670-8
+Added Pin To Net: NetName=3V3 Pin=OV7670-9
+Added Pin To Net: NetName=GND Pin=OV7670-10
+Added Pin To Net: NetName=SDA Pin=OV7670-11
+Added Pin To Net: NetName=HREF Pin=OV7670-12
+Added Pin To Net: NetName=CLK Pin=OV7670-13
+Added Pin To Net: NetName=PIXEL_6 Pin=OV7670-14
+Added Pin To Net: NetName=PIXEL_4 Pin=OV7670-15
+Added Pin To Net: NetName=PIXEL_2 Pin=OV7670-16
+Added Pin To Net: NetName=PIXEL_0 Pin=OV7670-17
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambra
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component OV7670

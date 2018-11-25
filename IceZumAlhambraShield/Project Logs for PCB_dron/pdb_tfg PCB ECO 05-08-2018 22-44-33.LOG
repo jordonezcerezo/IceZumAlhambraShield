@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PIXEL_1 Pin=*-22
+Removed Pin From Net: NetName=PIXEL_3 Pin=*-23
+Change Component Designator: OldDesignator=LIPO_INPUT_11.1V NewDesignator=LIPO_INPUT
+Added Pin To Net: NetName=PIXEL_3 Pin=*-22
+Added Pin To Net: NetName=PIXEL_1 Pin=*-23
+Added Member To Class: ClassName=pcb_dron_schematic Member=Component * IceZumAlhambra
+Added Room: Name=pcb_dron_schematic
